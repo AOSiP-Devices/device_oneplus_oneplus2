@@ -1,54 +1,48 @@
 [
  {
-   "remote":      "github",
-   "repository" : "DirtyUnicorns/android_device_oppo_common",
-   "target_path": "device/oppo/common",
-   "branch"     :  "n7x-caf"
+   "repository" : "device_oppo_common",
+   "target_path": "device/oppo/common"
  },
  {
-   "remote":      "github",
    "repository" : "DirtyUnicorns/android_kernel_oneplus_8994",
    "target_path": "kernel/oneplus/msm8994",
    "branch"     : "n7x-caf"
  },
  {
-   "remote":      "github",
-   "repository" : "LineageOS/android_hardware_cyanogen",
+   "remote":      "laos",
+   "repository" : "android_hardware_cyanogen",
    "target_path": "hardware/cyanogen",
-   "branch"     : "cm-14.1"
  },
  {
-   "remote":      "github",
-   "repository" : "LineageOS/android_hardware_qcom_audio",
+   "remote":      "laos",
+   "repository" : "android_hardware_qcom_audio",
    "target_path": "hardware/qcom/audio-caf/msm8994",
    "branch"     : "cm-14.1-caf-8994"
  },
  {
-   "remote":      "github",
-   "repository" : "LineageOS/android_hardware_qcom_media",
+   "remote":      "laos",
+   "repository" : "android_hardware_qcom_media",
    "target_path": "hardware/qcom/media-caf/msm8994",
    "branch"     : "cm-14.1-caf-8994"
  },
  {
-   "remote":      "github",
-   "repository" : "LineageOS/android_hardware_qcom_display",
+   "remote":      "laos",
+   "repository" : "android_hardware_qcom_display",
    "target_path": "hardware/qcom/display-caf/msm8994",
    "branch"     : "cm-14.1-caf-8994"
  },
  {
-   "remote":      "github",
    "repository" : "TheMuppets/proprietary_vendor_qcom_binaries",
    "target_path": "vendor/qcom/binaries",
    "branch"     : "cm-14.1"
  },
  {
-   "remote":      "github",
-   "repository" : "LineageOS/android_packages_resources_devicesettings",
+   "remote":      "laos",
+   "repository" : "android_packages_resources_devicesettings",
    "target_path": "packages/resources/devicesettings",
    "branch"     : "cm-14.1"
  },
  {
-   "remote":      "github",
    "repository" : "DirtyUnicorns/android_vendor_oneplus",
    "target_path": "vendor/oneplus",
    "branch"     : "n7x-caf"
