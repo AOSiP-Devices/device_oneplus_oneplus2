@@ -112,3 +112,6 @@ persist.timed.enable=true
 
 # Wifi
 persist.data.iwlan.enable=true
+
+# Google Assistant
+ro.opa.eligible_device=true
