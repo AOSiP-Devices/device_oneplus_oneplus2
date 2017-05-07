@@ -131,6 +131,9 @@ TARGET_USES_ION := true
 TARGET_USES_NEW_ION_API :=true
 TARGET_USES_C2D_COMPOSITION := true
 USE_OPENGL_RENDERER := true
+TARGET_USES_OVERLAY := true
+TARGET_FORCE_HWC_FOR_VIRTUAL_DISPLAYS := true
+MAX_VIRTUAL_DISPLAY_DIMENSION := 2048
 
 MAX_EGL_CACHE_KEY_SIZE := 12*1024
 MAX_EGL_CACHE_SIZE := 2048*1024
@@ -162,15 +165,6 @@ TARGET_NO_RPC := true
 
 # Sensors
 USE_SENSOR_MULTI_HAL := true
-
-# Enable dexpreopt to speed boot time
-#ifeq ($(HOST_OS),linux)
-#  ifneq ($(TARGET_BUILD_VARIANT),eng)
-#    ifeq ($(WITH_DEXPREOPT),)
-#      WITH_DEXPREOPT := true
-#   endif
-#  endif
-#endif
 
 # Wifi
 BOARD_HAS_QCOM_WLAN := true
