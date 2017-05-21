@@ -1,3 +1,3 @@
-add_lunch_combo carbon_oneplus2-user
-add_lunch_combo carbon_oneplus2-userdebug
-add_lunch_combo carbon_oneplus2-eng
+add_lunch_combo aosip_oneplus2-user
+add_lunch_combo aosip_oneplus2-userdebug
+add_lunch_combo aosip_oneplus2-eng
