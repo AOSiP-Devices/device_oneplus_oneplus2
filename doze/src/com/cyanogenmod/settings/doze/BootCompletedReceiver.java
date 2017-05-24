@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.carbonrom.settings.doze;
+package com.cyanogenmod.settings.doze;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

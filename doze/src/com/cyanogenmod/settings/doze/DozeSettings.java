@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.carbonrom.settings.doze;
+package com.cyanogenmod.settings.doze;
 
 import android.app.ActionBar;
 import android.app.Activity;
