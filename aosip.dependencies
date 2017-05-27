@@ -16,5 +16,11 @@
    "repository" : "packages_resources_devicesettings",
    "target_path": "packages/resources/devicesettings",
    "revision"   : "nougat-mr2"
+ },
+ {
+   "remote"     : "aosip",
+   "repository" : "platform_vendor_oneplus",
+   "target_path": "vendor/oneplus",
+   "revision"   : "nougat-mr2"
  }
 ]
