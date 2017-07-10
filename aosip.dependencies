@@ -1,6 +1,6 @@
 [
  {
-   "remote"     : "aosip",
+   "remote"     : "devices",
    "repository" : "kernel_oneplus_msm8994",
    "target_path": "kernel/oneplus/msm8994",
    "revision"   : "nougat-mr2"
