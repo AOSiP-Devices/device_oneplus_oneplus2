@@ -124,6 +124,9 @@ BOARD_USES_QCNE := true
 # Cpusets
 ENABLE_CPUSETS := true
 
+# Dex
+WITH_DEXPREOPT := false
+
 # GPS
 TARGET_NO_RPC := true
 USE_DEVICE_SPECIFIC_GPS := true
