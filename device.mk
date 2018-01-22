@@ -132,7 +132,8 @@ PRODUCT_PACKAGES += \
     sensors.hal.tof \
     libmmcamera_interface \
     libmmjpeg_interface \
-    libqomx_core
+    libqomx_core \
+    SnapdragonCamera
 
 # DRM
 PRODUCT_PACKAGES += \
