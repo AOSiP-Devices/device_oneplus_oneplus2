@@ -12,11 +12,6 @@
     "target_path": "vendor/oneplus/oneplus2"
   },
   {
-    "repository" : "LineageOS/android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings",
-    "branch"     : "lineage-15.0"
-  },
-  {
     "repository" : "AOSiP/platform_packages_apps_SnapdragonCamera",
     "target_path": "packages/apps/SnapdragonCamera"
   }
