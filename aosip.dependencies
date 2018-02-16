@@ -8,8 +8,8 @@
     "target_path": "kernel/oneplus/msm8994"
   },
   {
-    "repository" : "vendor_oneplus_oneplus2",
-    "target_path": "vendor/oneplus/oneplus2"
+    "repository" : "Shreeesha/proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus"
   },
   {
     "repository" : "AOSiP/platform_packages_apps_SnapdragonCamera",
