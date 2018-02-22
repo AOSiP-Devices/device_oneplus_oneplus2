@@ -120,7 +120,7 @@ PRODUCT_PACKAGES += \
     libmmcamera_interface \
     libmmjpeg_interface \
     libqomx_core \
-    SnapdragonCamera
+    Camera2
 
 # Connectivity Engine support (CNE)
 PRODUCT_PACKAGES += \

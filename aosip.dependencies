@@ -10,9 +10,5 @@
   {
     "repository" : "Shreeesha/proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus"
-  },
-  {
-    "repository" : "AOSiP/platform_packages_apps_SnapdragonCamera",
-    "target_path": "packages/apps/SnapdragonCamera"
   }
 ]
