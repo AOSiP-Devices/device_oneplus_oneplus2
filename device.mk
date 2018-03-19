@@ -329,7 +329,6 @@ PRODUCT_PACKAGES += \
 # WiFi
 PRODUCT_PACKAGES += \
     ipacm \
-    ipacm-diag \
     IPACM_cfg.xml \
     hostapd \
     libwpa_client \
